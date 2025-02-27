@@ -28,11 +28,11 @@ Now, just follow the steps using the CLI menu, and answer the questions the app 
 My bootcamp teachers and the previous classes videos. Some google as well maybe...
 
 ## Tests
-The npm start.
+The npm start, and a few others... (It's getting a lil confusing ngl)
 
 ## Demo
 [Video]
-PENDIENTE
+https://youtu.be/hE4WCx0PHso
 
 ## License
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
