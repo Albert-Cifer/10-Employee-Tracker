@@ -24,8 +24,10 @@ node dist/index.js"
 
 Now, just follow the steps using the CLI menu, and answer the questions the app asks if you want to add or modify any information.
 
+You could also upgrade people and add new roles and supervisors.
+
 ## Contributing
-My bootcamp teachers and the previous classes videos. Some google as well maybe...
+My bootcamp teachers, the previous classes videos. My friend Abel and Miguel. Mr. Chris from tutoring sessions as well...
 
 ## Tests
 The npm start, and a few others... (It's getting a lil confusing ngl)
